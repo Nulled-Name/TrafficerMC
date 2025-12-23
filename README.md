@@ -2,11 +2,11 @@
   <img src="https://github.com/RattlesHyper/TrafficerMC/assets/83329088/28ffc234-65f7-4847-a0ad-1df8a52a368d"/>
 </p>
 <p align="center">
-<a href="https://github.com/RattlesHyper/TrafficerMC/releases/latest">
-  <img src="https://img.shields.io/github/v/release/RattlesHyper/Trafficermc?color=red&style=for-the-badge"/>
+<a href="https://github.com/Nulled-Name/TrafficerMC/releases/latest">
+  <img src="https://img.shields.io/github/v/release/Nulled-Name/Trafficermc?color=red&style=for-the-badge"/>
 </a>
-  <a href="https://github.com/RattlesHyper/TrafficerMC/releases">
-  <img src="https://img.shields.io/github/downloads/RattlesHyper/TrafficerMC/total?color=red&style=for-the-badge"/>
+  <a href="https://github.com/Nulled-Name/TrafficerMC/releases">
+  <img src="https://img.shields.io/github/downloads/Nulled-Name/TrafficerMC/total?color=red&style=for-the-badge"/>
     <a href="https://discord.gg/uFpaAZdVgS"><img src="https://img.shields.io/discord/935341227400904734?label=DISCORD&color=red&style=for-the-badge"></a>
   </a>
 </p>
