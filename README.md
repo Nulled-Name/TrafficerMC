@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/RattlesHyper/TrafficerMC/assets/83329088/28ffc234-65f7-4847-a0ad-1df8a52a368d"/>
 </p>
+<p align="center">
 <a href="https://github.com/RattlesHyper/TrafficerMC/releases/latest">
   <img src="https://img.shields.io/github/v/release/RattlesHyper/Trafficermc?color=red&style=for-the-badge"/>
 </a>
