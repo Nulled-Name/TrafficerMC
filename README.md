@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://github.com/RattlesHyper/TrafficerMC/assets/83329088/28ffc234-65f7-4847-a0ad-1df8a52a368d"/>
 </p>
-<p align="center"><b style="font-size: 30px">⚠️ This version of the program is no longer actively maintained.</b></p>
-<p align="center">
 <a href="https://github.com/RattlesHyper/TrafficerMC/releases/latest">
   <img src="https://img.shields.io/github/v/release/RattlesHyper/Trafficermc?color=red&style=for-the-badge"/>
 </a>
@@ -27,7 +25,7 @@ TrafficerMC has a variety of features. Some of them are:
  - [Proxies](#proxies)
  - and way more!
 
-#### Minecraft Version 1.8.x - 1.20
+#### Minecraft Version 1.8.x - 1.21.11
 
 ##### Check out [Build Guide](#build-guide) to build TrafficerMC for your machine.
 
